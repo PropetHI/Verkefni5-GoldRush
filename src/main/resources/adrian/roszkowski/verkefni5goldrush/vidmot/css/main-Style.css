@@ -1,0 +1,6 @@
+.Leikbord{
+    -fx-background-color: transparent;
+    -fx-border-color: Black;
+    -fx-border-width: 2.5px;
+    -fx-padding: 5px 5px 5px 5px;
+}
