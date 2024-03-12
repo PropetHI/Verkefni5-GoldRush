@@ -58,7 +58,7 @@
             <!-- Default configuration for running with: mvn clean javafx:run -->
             <id>default-cli</id>
             <configuration>
-              <mainClass>adrian.roszkowski.verkefni5goldrush/adrian.roszkowski.verkefni5goldrush.HelloApplication</mainClass>
+              <mainClass>adrian.roszkowski.verkefni5goldrush/adrian.roszkowski.verkefni5goldrush.vidmot.Main</mainClass>
               <launcher>app</launcher>
               <jlinkZipName>app</jlinkZipName>
               <jlinkImageName>app</jlinkImageName>
